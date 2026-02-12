@@ -10,3 +10,33 @@
 .sugar {
 	font-family: "sugar", sans-serif;
 }
+
+@keyframes slideUp {
+	from {
+		transform: translate(-50%, 100%);
+		opacity: 0;
+	}
+	to {
+		transform: translate(-50%, 0%);
+		opacity: 1;
+	}
+}
+
+@keyframes slideDown {
+	from {
+		transform: translate(-50%, -100%);
+		opacity: 0;
+	}
+	to {
+		transform: translate(-50%, 0%);
+		opacity: 1;
+	}
+}
+
+.animate-slide-up {
+	animation: slideUp 0.9s ease-out forwards;
+}
+
+.animate-slide-down {
+	animation: slideDown 0.9s ease-out forwards;
+}

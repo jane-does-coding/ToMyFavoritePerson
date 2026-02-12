@@ -43,12 +43,12 @@ const Page = () => {
 
 			<img
 				src="/imgs/locket2.png"
-				className="w-[50vw] absolute z-99 top-0 left-[50vw] translate-x-[-50%]"
+				className="w-[50vw] absolute z-99 top-0 left-[50vw] animate-slide-down"
 				alt=""
 			/>
 			<img
 				src="/imgs/envelope-red.png"
-				className="w-[40vw] absolute z-97 bottom-0 left-[50vw] translate-x-[-50%]"
+				className="w-[40vw] absolute z-97 bottom-0 left-[50vw] animate-slide-up"
 				alt=""
 			/>
 		</div>

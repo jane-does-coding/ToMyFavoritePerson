@@ -24,29 +24,29 @@ const Page = () => {
 			<h1 className="sugar text-[10vh] mx-auto text-center pt-[5vh]">
 				What it's been like
 			</h1>
-			<h1 className="sugar text-[5vh] mx-auto text-center absolute bottom-[15vh] left-[50vw] translate-x-[-50%]">
+			<h1 className="sugar text-[5vh] mx-auto text-center absolute bottom-[5vh] left-[50vw] translate-x-[-50%]">
 				More photos...
 			</h1>
 
-			<div className="absolute top-[50vh] left-[50vw] translate-x-[-50%] translate-y-[-50%]">
+			<div className="absolute top-[55vh] left-[50vw] translate-x-[-50%] translate-y-[-50%]">
 				<div className="flex items-center justify-between w-[80vw] absolute top-[50%] translate-y-[-50%]">
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200 relative">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-17.5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-27.5vh]"></div>
 					</div>
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
 					</div>
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-17.5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-27.5vh]"></div>
 					</div>
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
 					</div>
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-17.5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[-27.5vh]"></div>
 					</div>
 					<div className="w-[2vw] h-[2vw] rounded-full border-2 border-black bg-pink-200">
-						<div className="w-[15vw] h-[15vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
+						<div className="w-[15vw] h-[25vh] rounded-[1vh] border-2 border-black bg-pink-50 absolute translate-x-[-7vw] translate-y-[5vh]"></div>
 					</div>
 				</div>
 				<div className="w-[80vw] h-[1vh] bg-pink-200 border-2 border-black rounded-full"></div>
