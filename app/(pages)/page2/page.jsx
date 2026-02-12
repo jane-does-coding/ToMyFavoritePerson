@@ -29,16 +29,15 @@ const Page = () => {
 
 			<div className="flex flex-col absolute top-[17.5vh] right-[7.5vw] z-99 items-end justify-center">
 				<p className="text-right text-[3vh] sugar font-extralight max-w-[27.5vw]">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illum
-					assumenda quas ipsam nulla deserunt eveniet est consequuntur.
+					You belong in a special place in my heart. You aren't just another
+					friend I had, but you are a very special person to me.
 				</p>
 				<p className="text-right text-[3vh] sugar font-extralight max-w-[20vw]">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illum
-					assumenda quas ipsam nulla deserunt eveniet est consequuntur.
+					Out of all the friends I've had in my life, which come and go, some
+					were close, some were not, but you are my favorite.
 				</p>
 				<p className="text-right text-[3vh] sugar font-extralight max-w-[12.5vw]">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae illum
-					assumenda quas.
+					And I want to stay friends with you.
 				</p>
 			</div>
 

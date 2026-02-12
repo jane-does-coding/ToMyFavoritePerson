@@ -25,7 +25,7 @@ const Page = () => {
 				What it's been like
 			</h1>
 			<h1 className="sugar text-[5vh] mx-auto text-center absolute bottom-[15vh] left-[50vw] translate-x-[-50%]">
-				It's been a long time...
+				More photos...
 			</h1>
 
 			<div className="absolute top-[50vh] left-[50vw] translate-x-[-50%] translate-y-[-50%]">

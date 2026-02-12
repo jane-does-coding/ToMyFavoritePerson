@@ -33,17 +33,19 @@ const Page = () => {
 						<div className="bg-pink-100/70 border-2 border-pink-900 rounded-[2vh] h-[25vh] w-2/7"></div>
 						<div className="flex flex-col w-3/7 px-[1vw] items-start justify-center gap-[0.5vh]">
 							<h2 className="sugar underline italic text-[2.5vh]">
-								Lorem Ipsum
+								Making me laugh
 							</h2>
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit. Explicabo, facere!
+								When I'm with you, everything is just so much fun. I love how
+								you can always make me laugh. It's been the most fun staying
+								over, and staying up late with you, laughing about all there is.
 							</p>
 						</div>
 						<div className="w-2/7 flex flex-col items-center justify-between">
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit.
+								{
+									"You will be the reason why I'll have bad smile lines when I'm old :)"
+								}
 							</p>
 							<div className="w-full bg-pink-100/70 border-2 border-pink-900 rounded-[2vh] h-[15vh]"></div>
 						</div>
@@ -51,29 +53,30 @@ const Page = () => {
 					<div className="flex bg-blue-300/0 gap-[1vw]">
 						<div className="flex flex-col w-2/5">
 							<h2 className="sugar underline italic text-[2.5vh]">
-								Lorem Ipsum
+								Being my Friend
 							</h2>
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit. Explicabo, facere!
+								Without any exaggeration, you've been the best friend I've ever
+								had in my life. You've been there for me through everything, and
+								I can't thank you enough.
 							</p>
 							<div className="bg-pink-100/70 border-2 border-pink-900 rounded-[2vh] w-full h-full mt-[0.5vh]"></div>
 						</div>
 						<div className="flex flex-col w-3/5">
 							<h2 className="sugar underline italic text-[2.5vh] text-right">
-								Lorem Ipsum
+								Introducing me to Horror Movies
 							</h2>
-							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit. Explicabo, facere!
+							<p className="font-extralight text-[1.75vh] pb-[1vh]">
+								I loved to always watch horror movies with you. Before you I
+								wasn't ever watching any, but when I met you I realized it was
+								so fun to watch with someone. Especially when that someone is
+								you.
 							</p>
 							<div className="bg-pink-100/70 border-2 border-pink-900 rounded-[2vh] w-full h-[20vh]"></div>
 						</div>
 					</div>
 					<p className="text-center italic font-extrabold sugar mt-[2vh] py-[2vh] px-[1vw] rounded-[2vh] border-4 border-pink-900 text-[2vh]">
-						Some more text here! Lorem ipsum dolor sit amet.
+						I'm happy that you were (and hopefully will be) part of my life
 					</p>
 				</div>
 				<div className="flex flex-col bg-green-300/0 w-1/2">
@@ -83,23 +86,24 @@ const Page = () => {
 						</h1>
 					</div>
 					<p className="font-semibold italic sugar text-center py-[1vh] pb-[0.5vh] text-[2vh] border-b-2 border-pink-900">
-						For all the time that we've spent together
+						For all the time that we've spent together...
 					</p>
 					<div className="flex py-[1.5vh]"></div>
 					<div className="flex bg-blue-300/0 gap-[1vw]">
-						<div className="flex flex-col items-start justify-between w-4/7 py-[1vh]">
+						<div className="flex flex-col items-start justify-between w-4/7 py-[1.5vh]">
 							<h2 className="sugar underline italic text-[2.5vh]">
-								Lorem Ipsum
+								...and for all the fun times
 							</h2>
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit. Explicabo, facere!
+								I love every moment we've been together and I'm grateful for all
+								the memories that we've made. I hope that we will get a chance
+								to make many more in the future.
 							</p>
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit. Doloremque, iste?
+								I remember and value all the time we've spent, from the very
+								first time we met at school, and since then each time we've hung
+								out. Each time we slept over or stayed up late. Each time we
+								laugh, or see each other.
 							</p>
 						</div>
 						<div className="flex flex-col w-3/7">
@@ -107,7 +111,7 @@ const Page = () => {
 						</div>
 					</div>
 					<p className="text-center italic font-extrabold sugar mt-[2vh] py-[0.5vh] px-[1vw] rounded-[1.75vh] border-4 border-pink-900 text-[2vh]">
-						Some more text here! Lorem ipsum dolor sit amet.
+						{"I really want us to stay together <3"}
 					</p>
 					<div className="flex bg-blue-300/0 gap-[1vw] pt-[2vh]">
 						<div className="flex flex-col w-4/7">
@@ -115,12 +119,13 @@ const Page = () => {
 						</div>
 						<div className="flex flex-col items-start justify-between w-3/7 py-[0.5vh]">
 							<h2 className="sugar underline italic text-[2.5vh]">
-								Lorem Ipsum
+								Long Calls
 							</h2>
 							<p className="font-extralight text-[1.75vh]">
-								Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam
-								consectetur fugiat laborum expedita amet recusandae? Lorem ipsum
-								dolor, sit amet consectetur adipisicing elit.
+								I'm grateful for the long calls we had, for each unplanned
+								facetime, or spontanious calls. Every time made me happy, and
+								you've always been the only person I actually loved calling, and
+								wasn't trying to get out of calls with.
 							</p>
 						</div>
 					</div>

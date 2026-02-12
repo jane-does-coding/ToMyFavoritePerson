@@ -9,10 +9,11 @@ const Letter = () => {
 				You got a letter...
 			</h1>
 			<p className="absolute bottom-[32vh] z-99 sugar text-[3vh] font-extralight left-[50%] translate-x-[-50%] w-[50vw] bg-blue-300/0 leading-[5.5vh]">
-				Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id repudiandae
-				quo totam sunt molestiae aut aliquam atque ipsam non rem. Lorem ipsum
-				dolor sit amet consectetur adipisicing elit. Beatae dolore autem minima
-				nobis neque officia. Lorem ipsum dolor sit amet.
+				If you are reading this, you are a reviewer for Flagship. This website
+				is a template for anyone who would like to ask someone to be their
+				Valentine this year. Replace the pink squares with your images and the
+				text with your own. I'm using this to share with my girl, to be my
+				Galentine (girl valentine).
 			</p>
 
 			<a
