@@ -25,12 +25,12 @@ const Page = () => {
 				Some of the dates that matter
 			</h1>
 			<h2 className="absolute top-[20vh] left-[50%] translate-x-[-50%] sugar text-[3vh] font-extralight mx-auto text-center min-w-fit w-[90vw]">
-				Because I value them all
+				{"(Reducted for reviewer)"}
 			</h2>
 			<div className="bg-pink-200 border-2 border-black top-[30vh] left-[10vw] rounded-[2vh] absolute overflow-hidden min-w-[15vw] w-[80vw]">
 				<div className="flex w-full border-b-2 border-black">
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar border-r-2">
-						Date
+						December 14, 2024
 					</h2>
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar bg-pink-100">
 						Some Event
@@ -38,7 +38,7 @@ const Page = () => {
 				</div>
 				<div className="flex w-full border-b-2 border-black">
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar border-r-2">
-						Date
+						January 5th, 2025
 					</h2>
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar bg-pink-100">
 						Some Event
@@ -46,7 +46,7 @@ const Page = () => {
 				</div>
 				<div className="flex w-full border-b-2 border-black">
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar border-r-2">
-						Date
+						April 20th, 2025
 					</h2>
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar bg-pink-100">
 						Some Event
@@ -54,7 +54,7 @@ const Page = () => {
 				</div>
 				<div className="flex w-full">
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar border-r-2">
-						Date
+						April 4th, 2025
 					</h2>
 					<h2 className="w-1/2 py-[2vh] px-[2vw] text-[2.5vh] sugar bg-pink-100">
 						Some Event

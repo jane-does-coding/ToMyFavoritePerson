@@ -27,7 +27,7 @@ const Page = () => {
 			<h2 className="absolute top-[20vh] left-[50%] translate-x-[-50%] sugar text-[3vh] font-extralight mx-auto text-center min-w-fit w-[90vw]">
 				{"(Reducted for the Flagship reviewer)"}
 			</h2>
-			<div className="columns-3 w-[90vw] top-[27.5vh] absolute left-[50vw] translate-x-[-50%] gap-[2vw] space-y-[2vh] pb-[5vh]">
+			<div className="columns-3 w-[90vw] top-[30vh] absolute left-[50vw] translate-x-[-50%] gap-[2vw] space-y-[2vh] pb-[5vh]">
 				<div className="w-full bg-white p-[2vh] py-[2.25vh] rounded-[1vh] break-inside-avoid">
 					<p className="sugar font-semibold text-[2vh]">April 10, 2025</p>
 					<p className="text-[2vh] font-light">
