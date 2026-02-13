@@ -35,7 +35,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img5.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
@@ -44,7 +44,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img2.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
@@ -53,7 +53,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img3.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
@@ -62,7 +62,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img11.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
@@ -71,7 +71,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img13.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
@@ -80,7 +80,7 @@ const Page = () => {
 							<img
 								src="/imgs2/img12.png"
 								alt=""
-								className="w-full h-full object-cover"
+								className="w-full h-full object-cover rounded-[1vh]"
 							/>
 						</div>
 					</div>
