@@ -28,15 +28,69 @@ const Page = () => {
 				<h1>Photos</h1>
 			</div>
 
-			<div className="absolute top-[15vh] left-[3vw] w-[15vw] border-2 h-[20vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[40vh] left-[5vw] w-[10vw] border-2 h-[15vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[5vh] left-[20vw] w-[7.5vw] border-2 h-[10vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[5vh] left-[40vw] w-[20vw] border-2 h-[20vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[10vh] left-[65vw] w-[17.5vw] border-2 h-[27.5vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[40vh] left-[85vw] w-[10vw] border-2 h-[15vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[65vh] left-[3vw] w-[30vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[72.5vh] left-[40vw] w-[20vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh]"></div>
-			<div className="absolute top-[65vh] left-[70vw] w-[20vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh]"></div>
+			<div className="absolute top-[15vh] left-[3vw] w-[15vw] border-2 h-[20vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img8.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[40vh] left-[5vw] w-[10vw] border-2 h-[15vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img7.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[5vh] left-[20vw] w-[8.5vw] border-2 h-[15vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img13.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[5vh] left-[40vw] w-[20vw] border-2 h-[20vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img4.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[10vh] left-[65vw] w-[17.5vw] border-2 h-[27.5vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img10.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[40vh] left-[85vw] w-[10vw] border-2 h-[15vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img11.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[65vh] left-[3vw] w-[30vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img9.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[72.5vh] left-[40vw] w-[20vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img14.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
+			<div className="absolute top-[65vh] left-[70vw] w-[20vw] border-2 h-[25vh] bg-pink-100 rounded-[2vh] overflow-hidden">
+				<img
+					src="/imgs2/img12.png"
+					alt=""
+					className="w-full h-full object-cover"
+				/>
+			</div>
 		</div>
 	);
 };
