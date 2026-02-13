@@ -11,6 +11,22 @@ const Page = () => {
 				className="fixed w-full h-full object-cover -z-10"
 			/>
 
+			<img
+				src="/imgs/corner-nobg.png"
+				alt="Background board"
+				className="fixed w-[25vw] object-cover -z-10"
+			/>
+			<img
+				src="/imgs/corner2-nobg.png"
+				alt="Background board"
+				className="fixed w-[15vw] bottom-0 left-0 object-cover -z-10"
+			/>
+			<img
+				src="/imgs/corner3-nobg.png"
+				alt="Background board"
+				className="fixed w-[10vw] bottom-0 right-0 object-cover -z-10"
+			/>
+
 			{/* Back button */}
 			<a href="/page5" className="fixed top-[2vh] left-[2vw] z-99">
 				<Button text={"Go Back"} />
